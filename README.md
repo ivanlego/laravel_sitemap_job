@@ -1,1 +1,1 @@
-# laravel_sitemap_job
+Пример генерации сайтмапа в виде laravel job
